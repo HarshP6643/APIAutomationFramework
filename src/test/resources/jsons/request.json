@@ -1,0 +1,18 @@
+{
+  "first_name": "Harsh",
+  "last_name": "Patel",
+  "id": 20,
+  "email": "harsh@gmail.com",
+  "favFoods": {
+    "breakFast": "Tea",
+    "lunch": "Omlet",
+    "dinner": [
+      "Panner",
+      "Chole"
+    ]
+  },
+  "jobs": [
+    "Quality Engineer",
+    "Stock market"
+  ]
+}
